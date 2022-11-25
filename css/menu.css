@@ -1,0 +1,101 @@
+body{
+    background-image: 
+    linear-gradient(to top, rgb(165, 149, 119), rgba(185, 130, 81, 0.1)),
+    url('https://img.freepik.com/premium-vector/seamless-pattern-abstract-background-with-green-leaves_81863-1597.jpg?w=740');
+	background-repeat: no-repeat, repeat-y;
+	background-size: 100%, 100%;
+
+    
+}
+
+header{
+    color:antiquewhite;
+    background: radial-gradient(circle,   rgba(50, 28, 12, 1)33%, rgb(58, 33, 14)51%,  rgb(63, 39, 18)100%);
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 20px;
+}
+
+footer{
+    color:antiquewhite;
+    background: radial-gradient(circle,   rgba(50, 28, 12, 1)33%, rgb(58, 33, 14)51%,  rgb(63, 39, 18)100%);
+}
+
+a{
+    color: antiquewhite;
+    text-decoration: none;
+    display: flex;
+    
+}
+
+a:visited {
+    color:darksalmon;
+    text-decoration: none;
+    display: flex;
+    
+}
+
+a:hover {
+    color:lightgreen;
+    text-decoration: none;
+    display: flex;
+    
+}
+
+.obmenu{
+    display: flex;
+    width: 100%;
+    overflow: hidden;
+    border-radius: 24px;
+    margin-bottom: 24px;
+    
+}
+
+.kartinochki_krug{
+    width: 226px;
+    height: 226px;
+    overflow: hidden;
+    border-radius: 50%;
+    border: 3px solid rgba(0, 128, 0, 0);
+    box-shadow: 0 0 7px #666;
+    
+    /* display: contents;
+    width: 226px;
+    height: 226px;
+    overflow: hidden;
+    border: 1px;
+    border-radius: 50%; */
+}
+
+h5{
+    background-color: cornflowerblue;
+    color:saddlebrown;
+    margin-bottom: 5px;
+    width: 226px;
+    
+}
+
+tbody{
+    width: auto;
+    margin-left: 550px
+}
+button{
+    height: 50px;
+    width: 55px;
+    border: solid 5px;
+    border-color: firebrick;
+    border-radius: 50%;
+    background-color: lightsalmon;
+    margin-top:1px;
+    margin-left:35px
+}
+
+table{
+    border: 5px;
+    border-color: crimson;
+    
+    
+}
+h6{color: #6e4c0d; font-family: ‘Rouge Script’, cursive; font-size: 20px; font-weight: normal; line-height: 10px; margin: 1 10 30px; text-align: center; text-shadow: 1px 1px 2px #998306;
+    margin:30px}
+

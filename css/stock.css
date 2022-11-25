@@ -1,0 +1,35 @@
+body{
+    background-image: 
+    linear-gradient(to top, rgb(184, 169, 142), rgba(185, 130, 81, 0.1)),
+    url('https://img.freepik.com/premium-vector/seamless-pattern-abstract-background-with-green-leaves_81863-1597.jpg?w=740');
+	background-repeat: no-repeat, no-repeat;
+	background-size: 100%, 100%;
+}
+
+header{
+    color:antiquewhite;
+    background: radial-gradient(circle,   rgba(50, 28, 12, 1)33%, rgb(58, 33, 14)51%,  rgb(63, 39, 18)100%);
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 20px;
+}
+
+footer{
+    color:antiquewhite;
+    background: radial-gradient(circle,   rgba(50, 28, 12, 1)33%, rgb(58, 33, 14)51%,  rgb(63, 39, 18)100%);
+}
+
+a{
+    color: antiquewhite;
+    text-decoration: none;
+}
+
+a:visited {
+    color:darksalmon;
+    text-decoration: none;
+}
+
+a:hover {
+    color:lightgreen;
+    text-decoration: none;
+}
